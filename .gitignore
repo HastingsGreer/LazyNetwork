@@ -1,0 +1,7 @@
+results/
+network_weights/
+__pycache__/
+*.swp
+*.pickle
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
